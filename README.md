@@ -1,7 +1,7 @@
 # Smart India Hackathon Workshop - Operating System
 ### Date : 29/11/2025 
-### Register Number: 212224240088
-### Name: S.MITHUN
+### Register Number: 212224230025
+### Name: S.ASHRATHI
 ## Problem Title
 SIH1446 - Developing a GUI based hardening script for Ubuntu operating system with flexibility to cater for organisational security policies## Problem Description
 
